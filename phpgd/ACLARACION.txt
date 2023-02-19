@@ -1,0 +1,6 @@
+-Para realizar este practico es necesario tener habilitado la libreria (gb). Esto nos permite manipular documentos de imagen, pero en mi caso no estaba incluida esa libreria.
+-Podemos saber si esta o no buscando en "phpinfo.php" + F3 (gb) y no estaba. Por ello para poder habilitarla debemos hacer esto.
+-Vamos a la carpeta php de XAMMPO, buscamos el archivo php.ini y abrimos con Notepad++ y buscamos donde diga ;extension=gd.
+-Esta contada con ese ; asique lo quitamos y guardamos. Y listo.
+
+Ruta de solucion web: https://www.federicoperichon.com.ar/habilitar-la-libreria-gd-en-xampp
